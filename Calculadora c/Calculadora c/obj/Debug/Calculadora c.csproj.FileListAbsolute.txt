@@ -1,0 +1,10 @@
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\bin\Debug\Calculadora c.exe.config
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\bin\Debug\Calculadora c.exe
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\bin\Debug\Calculadora c.pdb
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\obj\Debug\Calculadora c.csprojAssemblyReference.cache
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\obj\Debug\Calculadora_c.Form1.resources
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\obj\Debug\Calculadora_c.Properties.Resources.resources
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\obj\Debug\Calculadora c.csproj.GenerateResource.cache
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\obj\Debug\Calculadora c.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\obj\Debug\Calculadora c.exe
+C:\Users\vinic\Documents\C#\Calculadora c\Calculadora c\obj\Debug\Calculadora c.pdb
